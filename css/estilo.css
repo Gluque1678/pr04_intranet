@@ -1,0 +1,150 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+header, section, footer, aside, nav, article, figure, figcaption,
+hgroup{
+display: block;
+}
+
+
+
+
+/* esto es el header la parte de arriba*/
+#cabecera {
+	background: #5f86b2;
+	height: 177px;
+	width: 1360px;
+	background-color: #CFFAFA;
+	margin: auto;
+	margin-left: 0px;
+
+}
+
+figure {
+	
+	float: left;
+
+	/*margin-left:-900px;*/
+}
+
+
+
+body {
+		text-align: center;
+}
+
+/* menu nav de navegacion que hace que se ponga uno al lado del otro */
+#menu{
+	width: 1360px;
+	height: 177px;
+	background-color: #CFFAFA
+	margin:auto;
+	top:0px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	
+	
+
+/* menu nav de navegacion que hace que se ponga uno al lado del otro */	
+}
+
+
+#menu li{
+	width: 990px;
+	height: 177px;
+	display: inline-block;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 80px;
+	text-align: center;
+	margin-left: -430px;
+	background-color: #CFFAFA;
+	margin-top: 0px;
+	margin-left: 0px;
+	top: 5px;
+	
+}
+	
+
+
+/* Esto es la section permite tener elementos float */
+
+#seccion {
+
+float: left;
+width: 1360px;
+margin: 0px;
+bottom: 10px;
+background-color: #CFFAFA;
+height: 500px;
+}
+
+
+/* Esto es el texto de Reserva tus Actividades del Usuario*/
+
+
+
+
+#headerLogin{
+ margin-top: 0px;
+ margin-left: 135px;
+ font-size: 50px;
+ text-align: center;
+ background-color: #CFFAFA; 
+
+
+
+
+
+
+
+
+
+/*Esto es la justificacion del formulario */
+#formCentro{
+	width: 600px;
+	text-align: center;
+	background-color: #9ACD32;
+	margin-top: 150px;
+	font-size: 50px;
+	height: 300px;
+	
+	background-color: yellow;
+
+}
+
+#cuerpo	{
+
+background: #ececec;
+border:solid #ccc;
+/*aumentando el 2px 'aparece' un borde*/
+border-width: 2px 0;
+padding: 15px 35px;
+margin-top: 10px;
+
+}
+
+
+
+
+/* Esto es la parte del Aside */
+
+#columna{
+	height: 700px;
+	width:1350px;
+	text-align: right;
+	padding: 0px;
+	background: #9ACD32;
+}
+
+/* Esto es el pie de pagina */
+#pie{
+	 
+	margin-bottom: 0px;
+	background:red ;
+}	
+
+
+

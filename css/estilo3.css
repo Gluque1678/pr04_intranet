@@ -1,0 +1,391 @@
+/*copio estilo de la página index que es estilo.css */
+
+*	{
+
+	margin:0;
+	padding: 0;
+}
+
+html {
+
+	
+}
+
+# head {
+
+	
+}
+
+
+# agrupar{
+
+	
+}
+
+body{
+
+	background-color: #CFFAFA;
+}
+
+/* esto es el header la parte de arriba*/
+
+
+#salir{
+
+
+
+}
+
+#arriba{
+
+	width: 1350px;
+	height: 50px;
+	background-color: #CFFAFA;
+	font-size: 50px;
+	text-align: center;
+	margin-top: -60px;
+	
+	
+}
+
+
+/*esto es las imagenes del youtube,facebook,google,wifi*/
+
+div#general{
+
+	margin:auto;
+	margin-top: 10px;
+	width:1350px;
+	height:70px;
+	background-color:#CFFAFA;
+	text-align: center;
+	
+	
+}
+
+/*Esto le hace que mis logos tengan mas espacio uno entre otro*/
+
+#general p a{
+	margin-left: 0px;
+	margin-left: 200px;
+
+}
+
+
+
+/* Esto es la section permite tener elementos float */
+
+#seccion {
+
+margin:auto;
+margin-left: 0px;
+width: 1350px;
+height: 1100px;
+background-color:#CFFAFA;
+text-align: left;
+
+}
+
+
+
+/* menu nav de navegacion que hace que se ponga uno al lado del otro boton salir*/
+#menu{
+
+	
+	
+	
+}
+
+#menu li{
+	width: 1350px;
+	display: inline-block;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	text-align: right;
+	top: 0px;
+	color: ;
+	background-color: #CFFAFA;
+	margin-top: 0px;
+}
+
+
+#menu li a{
+
+	
+	$button-bg:whites;
+	display: inline-block;
+	background: $button-bg;
+	line-height: 3em;
+	padding: 0 1.5em;
+	color: red;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius: 1.5em;
+	border: 1px solid rgba(#000,3);
+	&:hover {
+
+		background: darken($button-bg,5);
+
+
+
+	}
+
+
+
+
+
+figure {
+	margin:auto;
+	margin-left: 0px;
+	padding: 0px;
+}
+
+
+#cabecera {
+	
+}
+
+
+
+
+
+/* ESTILO PÁGINA USUARIO.php */
+
+
+
+ 
+	&:active {
+		transform: scale(.95);
+
+	}
+	
+	}
+
+
+
+/* Esto es el texto de Reserva tus Actividades del Usuario*/
+
+
+
+#headerLogin{
+
+ margin-left: 0px;
+ font-size: 25px;
+ width: 1350px;
+ height: 1100px;
+ text-align: left;
+ t
+}
+
+
+
+
+
+/*foto misterguau*/
+
+#wrap{
+
+text-align: left;
+top: 20px;
+
+
+
+}
+
+/*MENU DE LA IZQUIERDA INICIO PARA LAS CLASES .*/
+
+.home{
+
+font-family: verdana;
+font-size: 10 px;
+color: #F5DEB3;
+line-height: 160%;
+}
+
+/*MENU BUSCAR IZQUIERDA */
+
+
+#searchbox{
+
+	background-color:white;
+	text-align:center;
+	size:50px;
+	margin-left: 5px;
+	width: 150px;
+	height: 22px;
+}
+
+#vertical-nav{
+
+	line-height: 160%;
+	margin-left: 5px;
+
+
+}
+
+
+
+#nav_vert{
+
+	margin-left: 5px;
+}
+
+#logoporcentaje {
+
+	margin:auto;
+	margin-left: 5px;
+	top: -5px;
+
+
+}
+
+#perdidos	{
+
+	margin:auto;
+	margin-left: 450px;
+	margin-top: -690px;
+	text-align: center;
+	width: 500px;
+	height: 50px;
+	background-color: #CFFAFA;
+}
+
+
+/*propiedades de los selects*/
+
+#tipoanimal{
+	font-family: inherit;
+	font-size: 80%;
+	margin: auto;
+	margin-left: 260px;
+	margin-top: 20px;
+
+}
+
+#Racaanimal{
+
+	font-family: inherit;
+	font-size: 80%;
+	margin: auto;
+	margin-left: 10px;
+	margin-top: -200px;
+}
+
+#municipi{
+	
+
+	font-family: inherit;
+	font-size: 80%;
+	margin: auto;
+	margin-left: 10px;
+	margin-top: -200px;
+
+
+
+}
+
+#boton {
+
+
+	font-family: inherit;
+	font-size: 80%;
+	margin: auto;
+	margin-left: 10px;
+	margin-top: -60px;
+  	border: 1px solid black !important;
+  	border-radius: 0px !important;
+
+  -webkit-appearance: none;
+}
+
+
+/*en marcar las respuesta que me envia mi servidor*/
+
+
+
+.footer {
+
+	margin: auto;
+	margin-left: 450px;
+	margin-top: 500px;
+
+
+}
+
+.pie {
+	
+	margin: auto;
+	margin-left: -150px;
+	margin-top: 80px;
+	
+
+}
+
+
+/*lista del pie en horizontal*/
+
+
+.pie2 {
+	margin: 0 auto;	
+	text-align:center;
+	margin-left: -370px;
+	margin-top: 80px;
+}
+
+ul#lista li {
+	display: inline !important;
+	margin:auto;
+	margin-left: 0px;
+	text-align: left;
+	top:10px;
+
+
+
+
+
+}
+
+ul#lista2 li {
+	display: inline !important;
+	margin:auto;
+	margin-left: 0px;
+	top:10px;
+	text-align: left;
+}
+
+.normal {
+
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	text-align: right;
+	width: 600px;
+
+}
+
+
+
+/*Propiedades de una tabla
+table {
+font-family: Verdana,Arial,Helvetica,sans-serif;
+font-size: 20px; margin:45px; width: 1200px; text-align: left; border-collapse: collapse;
+
+
+}
+
+th {
+
+font-size:13; font-weight: normal; padding: 8px; background:#b9c9fe;
+border-top: 4px solid #aabcfe; border-bottom:1px solid #fff;color:#039;
+
+
+}
+
+td  {
+
+	padding: 8px, background:#e8edff; border-bottom: 1px solid #fff; color:#669; border-top: 1px solid transparent;
+
+}
+
+tr:hover td {background: #d0dafd; color:#339;
+
+	}*/
